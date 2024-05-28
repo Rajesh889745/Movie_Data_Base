@@ -1,1 +1,1 @@
-# Movie_Data_Base
+A Movie Database program allows users to manage a collection of movies by adding new entries, searching for movies by various criteria (title, genre, director, etc.), and displaying detailed information about each movie. It features a user-friendly interface to streamline data input and retrieval. The database supports sorting and filtering to help users find specific movies easily. It also includes data validation to ensure accurate and complete movie records.# Movie_Data_Base
